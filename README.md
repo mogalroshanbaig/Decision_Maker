@@ -34,3 +34,4 @@ Let's break down the code step by step:
     - We create an instance of DecisionMakerApp and call its run() method to start the app.
 
 # Output
+![2024-02-07 (1)](https://github.com/mogalroshanbaig/Decision_Maker/assets/96071713/7d7ceb65-fc05-4c8f-810e-ae9d4bb9d561)
