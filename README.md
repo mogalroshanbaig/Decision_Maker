@@ -32,6 +32,9 @@ Let's break down the code step by step:
 - Running the App:
     - The if __name__ == "__main__": block ensures that the app runs when the script is executed directly (not imported as module).
     - We create an instance of DecisionMakerApp and call its run() method to start the app.
-
+- Use cases:
+    - Choosing a Restaurant: When friends can’t decide where to eat, they can input restaurant names and let the app pick one.
+    - Random Activity: Users can list activities (e.g., hiking, reading, cooking) and let the app decide what to do.
+    - Group Games: During games or team activities, the app can randomly select players or teams.
 # Output
 ![2024-02-07 (1)](https://github.com/mogalroshanbaig/Decision_Maker/assets/96071713/7d7ceb65-fc05-4c8f-810e-ae9d4bb9d561)
